@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "shaikhahmed.com/*"
+  to = "https://www.shaikhahmed.com/:splat"
+  status = 301 # Permanent redirect (recommended)
+  force = true # Ensures the redirect works even if other rules match
